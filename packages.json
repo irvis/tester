@@ -1,6 +1,6 @@
 {
     "packages": {
-        "vendor/package-name": {
+        "service/fishdraft": {
             "dev-master": { @composer.json },
         }
     }
