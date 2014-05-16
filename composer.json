@@ -1,5 +1,5 @@
 {
-    "name": "service/fishdraft",
+    "name": "irvis/tester",
     "description": "Fishdraft a service",
     "minimum-stability": "dev"
 }
