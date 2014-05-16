@@ -1,0 +1,5 @@
+{
+    "name": "service/fishdraft",
+    "description": "Fishdraft a service",
+    "minimum-stability": "dev"
+}
