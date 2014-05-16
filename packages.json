@@ -1,7 +1,7 @@
 {
     "packages": {
         "service/fishdraft": {
-            "dev-master": { @composer.json },
+            "stable": { @composer.json },
         }
     }
 }
